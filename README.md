@@ -93,7 +93,7 @@ pip install -r requirements.txt
 
 **_main.py_** dosyasını çalıştırarak Grafiksel arayüze Erişebilirsiniz.
 
-İsterseniz [Releases]("" "Exe dosyasını indirebilirsiniz.") butonuna tıkayarak Exe olarak çalıştırabilirsiniz.
+İsterseniz [Releases](https://github.com/Betulkaya000/SecureVault/releases "Exe dosyasını indirebilirsiniz.") butonuna tıkayarak Exe olarak çalıştırabilirsiniz.
 
 Açılan ekranda ilk girişinizde **_Ana Şifrenizi_** güçlü bir parola giriniz.
 
