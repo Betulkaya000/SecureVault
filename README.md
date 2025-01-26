@@ -10,8 +10,8 @@
 
 | İsim           | Öğrenci No | Rol          |
 | -------------- | ---------- | ------------ |
-| [Hilal Paksoy] | []         | Proje Ortağı |
-| [Betül Kaya]   | []         | Proje Ortağı |
+| [Hilal Paksoy] | [2320191088]         | Proje Ortağı |
+| [Betül Kaya]   | [2320191085]         | Proje Ortağı |
 
 ## 📅 Önemli Tarihler
 
