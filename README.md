@@ -23,7 +23,7 @@
 
 Projenin çalışır demo videosu aşağıdaki bağlantıda bulunmaktadır:
 
-[Demo Video Linki](#) _(1-3 dakika)_
+[Demo Video Linki](https://github.com/Betulkaya000/SecureVault/issues/1#issue-2821619223) _(1-3 dakika)_
 
 **Video içeriği:**
 
